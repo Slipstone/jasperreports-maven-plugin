@@ -1,0 +1,16 @@
+*.DS_Store
+*.class
+*.swp
+*.out
+*.lock
+*.log
+*~
+**/target
+target
+**/bin
+**/bin-test
+**/generated
+web/src/main/webapp/css/styles.less
+web/src/main/webapp/generated
+logic/src/main/generated/jasper
+it/test-output
